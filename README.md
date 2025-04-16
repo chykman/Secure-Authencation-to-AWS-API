@@ -21,6 +21,25 @@
    
       ## Download the AWS CLI
       - ![image](https://github.com/user-attachments/assets/d1b97ea7-dc5c-47c8-9688-6b4ce98c0a50)
+      - Install the aws cli software for windows
+        ![image](https://github.com/user-attachments/assets/9b0ad32d-57df-4c2b-93c6-c8cb6c4ed5e1)
+
+        - Check version on the command line
+          ![image](https://github.com/user-attachments/assets/efbb2f1d-e723-49e3-9d16-bb9b0b9bd0ae)
+          - Configure aws
+            ![image](https://github.com/user-attachments/assets/d60bb066-17d8-4e01-9c11-21f71b0c7fc2)
+            - Confirm configuration
+              ![image](https://github.com/user-attachments/assets/c44b1f3c-04e5-49cf-a60c-2898df443882)
+
+
+
+
+           
+
+
+
+
+
 
 
 
